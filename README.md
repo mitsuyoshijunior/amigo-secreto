@@ -1,19 +1,21 @@
 ![Screenshot 2024-12-08 155541](https://github.com/user-attachments/assets/e27d622d-3bc7-4cc5-a31e-b7594d1cc052)
-<h1>Sorteio do amigo secreto</h1>
-<p>Projeto desenvolvido junto ao curso de lógica de programação da escola Alura.</p>
-<h2>Como usar?</h2>
-<p>Trata-se de uma pequena aplicação de sorteio. Funciona assim:</p>
-<ul>
-  <li>1 - Adicione o nome das pessoas que vão participar do amigo secreto (no mínimo 4);</li>
-  <li>2 - Clique no botão 'sortear';</li>
-  <li>3 - A aplicação designará a pessoa sorteada, sendo indicada por uma seta.</li>
-</ul>
-<p>Pronto! Foi feito um sorteio rápido e fácil.</p>
-<h2>Linguagens utilizadas:</h2>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-</ul>
-<h2>Acesso a aplicação:</h2>
+# Secret Santa Draw
+
+This is a learning project that consists of a simple drawing application. Here’s how it works:
+
+1. Add the names of the people participating in the Secret Santa (minimum of 4);  
+2. Click the 'Draw' button;  
+3. The application will assign a person to each participant, indicated by an arrow.
+
+That’s it! A quick and easy draw.
+
+## Technologies Used
+
+- HTML (provided by Alura)  
+- CSS (provided by Alura)  
+- JavaScript (custom logic developed by me)
+
+## Live Demo
+
+You can access the application here:  
 https://amigo-secreto-topaz-chi.vercel.app/
